@@ -3,4 +3,7 @@
   <Project Path="Aufgabe-02/Aufgabe-02.csproj" Id="50b76eb1-14d1-446a-9138-f9e8ba81c9c6" />
   <Project Path="Aufgabe-03/Aufgabe-03.csproj" Id="eb9c3fbd-2807-4836-82d9-237f199685ef" />
   <Project Path="Aufgabe-04/Aufgabe-04.csproj" Id="b4f61ec1-df16-4bc7-9f85-9ed264227247" />
+  <Project Path="Aufgabe-05/Aufgabe-05.csproj" Id="e406f90e-59c0-4694-afaa-358484460b4b" />
+  <Project Path="Aufgabe-06/Aufgabe-06.csproj" Id="11f0dfc6-1ddd-4e60-b4ab-306add89c9e3" />
+  <Project Path="Aufgabe-07/Aufgabe-07.csproj" Id="71722537-25e2-4510-962d-fc5c92d7f697" />
 </Solution>
