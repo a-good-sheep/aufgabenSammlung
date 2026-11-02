@@ -10,5 +10,6 @@
   <Project Path="Aufgabe-09/Aufgabe-09.csproj" Id="a947b901-239c-4597-9289-65456bed17fb" />
   <Project Path="Aufgabe-10/Aufgabe-10.csproj" Id="1b0d5569-d785-4499-ad87-eb69ddb6b276" />
   <Project Path="Aufgabe-15/Aufgabe-15.csproj" Id="13fdfc72-5311-424c-8461-b935f1c36986" />
+  <Project Path="Aufgabe_16/Aufgabe-16.csproj" Id="ce476275-f464-4222-a5c9-ca281c22668a" />
   <Project Path="Waldbrand orientierung/WaldbrandSimulation.csproj" Id="becb7848-146a-4915-9efc-5a12d37c5f2b" />
 </Solution>

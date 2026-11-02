@@ -40,7 +40,15 @@
 
             for (int d = 0; d < stammhoehe; d++)
             {
-
+                for (int e = 0; e < ((kronenhoehe - stammbreite) + 1); e++)
+                {
+                    Console.Write(" ");
+                }
+                for (int f = 0; f < stammbreite; f++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
             }
 
 
